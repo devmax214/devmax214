@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @devmax214, full-stack web & mobile developer.
-- 👀 I’m interested in developmenting applications with JS frameworks and libraries, React, Angular, Vue, Next and so on.
-- 🌱 I’m currently learning Flutter, python, and AI integrating
-- 💞️ I’m looking to collaborate on going project.
+👋 Hi, I’m @devmax214  
+Full-stack web & mobile engineer focused on building scalable apps and AI-powered products.
 
+💻 I specialize in modern JavaScript ecosystems and cross-platform development:
+React • Next.js • Vue • Angular • Node.js • Flutter • TypeScript
 
-<!---
-devmax214/devmax214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤖 I design and integrate AI systems:
+AI APIs • automation workflows • data pipelines • intelligent SaaS features
+
+📱 I build production-ready mobile apps with Flutter and full backend integration.
+
+🚀 Currently focused on:
+- AI engineering & applied machine learning
+- high-performance full-stack architecture
+- scalable SaaS platforms
+- modern mobile experiences
+
+💞️ Open to collaboration on ambitious projects involving:
+AI • SaaS • web platforms • mobile apps • 3D/interactive systems
+
+📫 Let’s build something meaningful.
